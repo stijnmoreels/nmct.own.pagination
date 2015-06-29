@@ -2,8 +2,7 @@
 Paged Lists
 
 Usage:
-Add these files to your project: [PagedList] & [PagedListExtension]
-(https://github.com/stijnmoreels/nmct.own.pagination/blob/master/nmct.own.pagination.core/PagedList.cs)
+Add these files to your project: [PagedList] (https://github.com/stijnmoreels/nmct.own.pagination/blob/master/nmct.own.pagination.core/PagedList.cs) & [PagedListExtension]
 (https://github.com/stijnmoreels/nmct.own.pagination/blob/master/nmct.own.pagination.core/PagedListExtension.cs)
 
 ## Example list
