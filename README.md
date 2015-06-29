@@ -1,5 +1,5 @@
 # nmct.own.pagination
-Paged Lists
+Paged Lists inspirated by many developers online
 
 Usage:
 Add these files to your project: [PagedList] (https://github.com/stijnmoreels/nmct.own.pagination/blob/master/nmct.own.pagination.core/PagedList.cs) & [PagedListExtension]
