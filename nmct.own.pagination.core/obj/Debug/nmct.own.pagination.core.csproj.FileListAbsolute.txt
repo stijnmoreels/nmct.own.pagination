@@ -1,0 +1,5 @@
+C:\Users\stijn\Documents\Stijn\OWN-PROJECTS\nmct.own.pagination\nmct.own.pagination.core\bin\Debug\nmct.own.pagination.core.dll
+C:\Users\stijn\Documents\Stijn\OWN-PROJECTS\nmct.own.pagination\nmct.own.pagination.core\bin\Debug\nmct.own.pagination.core.pdb
+C:\Users\stijn\Documents\Stijn\OWN-PROJECTS\nmct.own.pagination\nmct.own.pagination.core\obj\Debug\nmct.own.pagination.core.csprojResolveAssemblyReference.cache
+C:\Users\stijn\Documents\Stijn\OWN-PROJECTS\nmct.own.pagination\nmct.own.pagination.core\obj\Debug\nmct.own.pagination.core.dll
+C:\Users\stijn\Documents\Stijn\OWN-PROJECTS\nmct.own.pagination\nmct.own.pagination.core\obj\Debug\nmct.own.pagination.core.pdb
