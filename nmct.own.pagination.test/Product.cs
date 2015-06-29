@@ -21,7 +21,7 @@ namespace nmct.own.pagination.test
             this.Shipper = shipper;
         }
 
-        public static IList<Product> GetProducts()
+        public static IEnumerable<Product> GetProducts()
         {
             IList<Product> list = new List<Product>();
             for (int j = 0; j < 10; j++)
